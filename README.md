@@ -1,5 +1,5 @@
 # Course_Project_OOP
-Repository for keeping all the information aboute course project - web-application, that contains information about housing rent.
+Репозиторій для зберігання інформації про курсовий проєкт - веб-застосунок для оренди житла
 # Functional requirements:
  - Як орендар, я хочу мати можливість переглядати основну сторінку з пропозиціями житла.
  - Як орендар, я хочу мати можливість переглядати сторінку з детальною інформацією про конкретний об'єкт житла.
