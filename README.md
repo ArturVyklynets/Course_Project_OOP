@@ -137,3 +137,5 @@
    - DELETE /api/admin/properties/{property_id} - Видалення оголошення про оренду житла.
    - GET /api/admin/reviews - Отримання списку відгуків користувачів для перегляду та видалення.
    - DELETE /api/admin/reviews/{review_id} - Видалення відгуку користувача.
+# ER Diagram:
+![ER Diagram](./ERD_Artur.png)
